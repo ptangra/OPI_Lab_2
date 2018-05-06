@@ -39,4 +39,8 @@ public class H implements F, E {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
