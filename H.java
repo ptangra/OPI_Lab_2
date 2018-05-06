@@ -35,4 +35,8 @@ public class H implements F, E {
     public String kk() {
         return "Hello world";
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
