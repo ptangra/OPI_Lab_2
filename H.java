@@ -27,4 +27,8 @@ public class H implements F, E {
     public long dd() {
         return 33;
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
