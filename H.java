@@ -36,6 +36,7 @@ public class H extends null implements F, E {
         return "Hello world";
     }
 
+
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
@@ -52,6 +53,7 @@ public class H extends null implements F, E {
         return 9.11;
     }
 
+
     public float ff() {
         return 3.14;
     }
@@ -67,4 +69,5 @@ public class H extends null implements F, E {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+
 }
