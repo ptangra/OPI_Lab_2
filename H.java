@@ -1,4 +1,4 @@
-public class H implements F, E {
+public class H extends null implements F, E {
 
     private byte c = 1;
 
@@ -42,5 +42,13 @@ public class H implements F, E {
 
     public java.lang.Class qq() {
         return getClass();
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public double ad() {
+        return 9.11;
     }
 }
