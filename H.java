@@ -31,4 +31,8 @@ public class H implements F, E {
     public void ab() {
         System.out.println();
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }
