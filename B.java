@@ -1,4 +1,4 @@
-public interface B {
+public class B extends null {
 
     java.util.List<String> jj();
 
